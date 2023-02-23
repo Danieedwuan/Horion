@@ -42,7 +42,7 @@
 					
 				},
 				{
-					"name": "leftArm",
+					"name": "left Arm",
 					"parent": "body",
 					"pivot": [5, 22, 0]
 					
@@ -54,12 +54,12 @@
 					
 				},
 				{
-					"name": "leftItem",
+					"name": "left Item",
 					"parent": "leftArm",
 					"pivot": [6, 15, 1]
 				},
 				{
-					"name": "rightArm",
+					"name": "right Arm",
 					"parent": "body",
 					"pivot": [-5, 22, 0]
 					
@@ -85,7 +85,7 @@
 					
 				},
 				{
-					"name": "leftLeg",
+					"name": "left Leg",
 					"parent": "root",
 					"pivot": [1.9, 12, 0]
 					
@@ -97,7 +97,7 @@
 					
 				},
 				{
-					"name": "rightLeg",
+					"name": "right Leg",
 					"parent": "root",
 					"pivot": [-1.9, 12, 0]
 					
@@ -105,7 +105,7 @@
 				{
 					"name": "rightPants",
 					"parent": "rightLeg",
-					"pivot": [-1.9, 12, 0]
+					"pivot": [-1.9, 62, 0]
 					
 				}
 			],
@@ -133,32 +133,32 @@
                "pivot" : [ 0.0, 24.0, 0.0 ]
             },
             {
-               "name" : "leftarm",
+               "name" : "left arm",
                "parent" : "body",
                "pivot" : [ 5.0, 22.0, 0.0 ]
             },
             {
-               "name" : "leftitem",
-               "parent" : "leftarm",
+               "name" : "left item",
+               "parent" : "left arm",
                "pivot" : [ 6.0, 15.0, 0.0 ]
             },
             {
-               "name" : "leftleg",
+               "name" : "left leg",
                "parent" : "root",
                "pivot" : [ 1.899999976158142, 12.0, 0.0 ]
             },
             {
-               "name" : "rightarm",
+               "name" : "right arm",
                "parent" : "body",
                "pivot" : [ -5.0, 22.0, 0.0 ]
             },
             {
                "name" : "rightitem",
-               "parent" : "rightarm",
+               "parent" : "right arm",
                "pivot" : [ -6.0, 15.0, 0.0 ]
             },
             {
-               "name" : "rightleg",
+               "name" : "right leg",
                "parent" : "root",
                "pivot" : [ -1.899999976158142, 12.0, 0.0 ]
             },
